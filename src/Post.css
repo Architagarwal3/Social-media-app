@@ -1,0 +1,8 @@
+.app_post {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+.app_postright {
+  margin-left: 40px;
+}

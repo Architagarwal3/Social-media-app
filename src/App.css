@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+}
+.app {
+  background-color: #fafafa;
+}
+.header {
+  object-fit: contain;
+  background-color: white;
+  padding: 20px;
+  border-bottom: 1px solid lightgrey;
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  top: 0px;
+  z-index: 1;
+}
+.app_signup {
+  display: flex;
+  flex-direction: column;
+}
+.modal_text {
+  margin-bottom: 10px;
+  border: 0px;
+  border-bottom: 1px solid;
+}
+.end {
+  margin-bottom: 0px;
+}
+.header_logo {
+  object-fit: contain;
+}
