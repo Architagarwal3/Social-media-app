@@ -1,4 +1,7 @@
-Live link-https://instagram-b66a0.web.app/
+This project is a social-media platform where one can make a connect to the world with the front-end being similar to that of instagram.It is built using react.js and deployed on firebase.It also has firebase google and email authentication.
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
