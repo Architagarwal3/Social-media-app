@@ -1,7 +1,3 @@
-This project is a social-media platform optimized for fast data retrieval on post and comments, where one can make a connect to the world with the front-end being similar to that of instagram.It is built using web framework react.js and is deployed on firebase.It also has firebase google and email authentication.
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
